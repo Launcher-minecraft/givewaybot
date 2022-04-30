@@ -4,4 +4,4 @@ tapper les commandes suivantes :
             -npm install discordjs et
             -npm i
             
-Pour lancer le bot t'apper node index.js
+Pour lancer le bot tapper node index.js
